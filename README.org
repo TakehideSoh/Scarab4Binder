@@ -1,6 +1,6 @@
 #+OPTIONS: toc:nil
 
-- This repository is a fork from two repositories. 
+- This repository [[https://github.com/TakehideSoh/Scarab4Binder][Scarab4Binder]] is a fork from two repositories. 
   - [[https://github.com/almond-sh/examples][Almond Example]]
     - A collection of [[http://jupyter.org/][Jupyter]] notebooks showing what you can do with
       the [[https://almond.sh/][Almond]] Scala kernel.
@@ -11,7 +11,7 @@
 - Based on the above two repositories, this repository provises a
   binder setting for running a constraint programming system [[https://tsoh.org/scarab/][Scarab]]. 
 
-- Credits and Links to related software
+- Credits and Links to related software: 
   - [[https://www.scala-lang.org][Scala]]
   - [[https://www.scala-lang.org][Sat4j]]
   - [[http://jupyter.org/][Jupyter]]
