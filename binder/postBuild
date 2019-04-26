@@ -10,6 +10,7 @@ SCALA_VERSION=2.12.8 ALMOND_VERSION=0.4.0
   -r jitpack \
   -i user -I user:sh.almond:scala-kernel-api_$SCALA_VERSION:$ALMOND_VERSION \
   sh.almond:scala-kernel_$SCALA_VERSION:$ALMOND_VERSION \
+  -o almond
 #  --sources --default=true \
 #  -o almond
 ./almond --install \
@@ -17,6 +18,7 @@ SCALA_VERSION=2.12.8 ALMOND_VERSION=0.4.0
   --copy-launcher true
 rm -f almond
 
+# cp $HOME/binder/kernel.json $HOME/.local/share/jupyter/kernels/scala/
 
 # Install almond for Scala 2.11
 # SCALA_VERSION=2.11.12 ALMOND_VERSION=0.4.0
