@@ -10,10 +10,10 @@
 
 
 - Credits and Links to related software: 
-  - [[http://bach.istc.kobe-u.ac.jp/copris/][Copris]]
-    - [[https://github.com/tamura70/copris-examples][Copris Example]] which is example Jupyter notebooks of a
-      constraint programming system Copris running on Almond Scala kernel.
-    - index.ipynb is based on the one in this repository. 
+  - [[http://bach.istc.kobe-u.ac.jp/copris/][Copris]] is a constraint programming system on Scala. 
+    - [[https://github.com/tamura70/copris-examples][Copris Example]] is example Jupyter notebooks of a constraint
+      programming system Copris running on Almond Scala kernel.
+    - index.ipynb is based on the one in this repository.
   - [[https://www.scala-lang.org][Scala]]
   - [[https://www.scala-lang.org][Sat4j]]
   - [[http://jupyter.org/][Jupyter]]

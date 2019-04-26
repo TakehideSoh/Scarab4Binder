@@ -7,9 +7,9 @@
     setting for running a constraint programming system [Scarab](https://tsoh.org/scarab/).
 
 -   Credits and Links to related software: 
-    -   [Copris](http://bach.istc.kobe-u.ac.jp/copris/)
-        -   [Copris Example](https://github.com/tamura70/copris-examples) which is example Jupyter notebooks of a
-            constraint programming system Copris running on Almond Scala kernel.
+    -   [Copris](http://bach.istc.kobe-u.ac.jp/copris/) is a constraint programming system on Scala. 
+        -   [Copris Example](https://github.com/tamura70/copris-examples) is example Jupyter notebooks of a constraint
+            programming system Copris running on Almond Scala kernel.
         -   index.ipynb is based on the one in this repository.
     -   [Scala](https://www.scala-lang.org)
     -   [Sat4j](https://www.scala-lang.org)
