@@ -1,16 +1,19 @@
 #+OPTIONS: toc:nil
 
-- This repository [[https://github.com/TakehideSoh/Scarab4Binder][Scarab4Binder]] is a fork from two repositories. 
+- This repository [[https://github.com/TakehideSoh/Scarab4Binder][Scarab4Binder]] is a fork from the repository. 
   - [[https://github.com/almond-sh/examples][Almond Example]]
     - A collection of [[http://jupyter.org/][Jupyter]] notebooks showing what you can do with
       the [[https://almond.sh/][Almond]] Scala kernel.
 
-- Based on the above two repositories, this repository provises a
-  binder setting for running a constraint programming system [[https://tsoh.org/scarab/][Scarab]]. 
+- Based on the above repository, this repository provises a binder
+  setting for running a constraint programming system [[https://tsoh.org/scarab/][Scarab]]. 
+
 
 - Credits and Links to related software: 
   - [[http://bach.istc.kobe-u.ac.jp/copris/][Copris]]
-    - [[https://github.com/tamura70/copris-examples][Copris Example]] 
+    - [[https://github.com/tamura70/copris-examples][Copris Example]] which is example Jupyter notebooks of a
+      constraint programming system Copris running on Almond Scala kernel.
+    - index.ipynb is based on the one in this repository. 
   - [[https://www.scala-lang.org][Scala]]
   - [[https://www.scala-lang.org][Sat4j]]
   - [[http://jupyter.org/][Jupyter]]
