@@ -1,4 +1,4 @@
--   This repository [Scarab4Binder](https://github.com/TakehideSoh/Scarab4Binder) is a fork from two repositories. 
+-   This repository [Scarab4Binder](https://github.com/TakehideSoh/Scarab4Binder) is a fork from the following repository. 
     -   [Almond Example](https://github.com/almond-sh/examples)
         -   A collection of [Jupyter](http://jupyter.org/) notebooks showing what you can do with
             the [Almond](https://almond.sh/) Scala kernel.
