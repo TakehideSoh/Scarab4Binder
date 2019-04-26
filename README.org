@@ -1,0 +1,3 @@
+* Scarab for Binder
+  - This repository provises a binder setting for running a constraint
+    programming system [[https://tsoh.org/scarab/][Scarab]]. 
