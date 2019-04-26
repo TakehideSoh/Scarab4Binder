@@ -4,20 +4,18 @@
   - [[https://github.com/almond-sh/examples][Almond Example]]
     - A collection of [[http://jupyter.org/][Jupyter]] notebooks showing what you can do with
       the [[https://almond.sh/][Almond]] Scala kernel.
-  - [[https://github.com/tamura70/copris-examples][Copris Example]]
-    - Example [[http://jupyter.org/][Jupyter]] notebooks of [[http://bach.istc.kobe-u.ac.jp/copris/][Copris]] running on [[https://almond.sh/][Almond]] Scala
-      kernel.
 
 - Based on the above two repositories, this repository provises a
   binder setting for running a constraint programming system [[https://tsoh.org/scarab/][Scarab]]. 
 
 - Credits and Links to related software: 
+  - [[http://bach.istc.kobe-u.ac.jp/copris/][Copris]]
+    - [[https://github.com/tamura70/copris-examples][Copris Example]] 
   - [[https://www.scala-lang.org][Scala]]
   - [[https://www.scala-lang.org][Sat4j]]
   - [[http://jupyter.org/][Jupyter]]
   - [[https://almond.sh][Almond]]
   - [[https://mybinder.org][Binder]]
-  - [[http://bach.istc.kobe-u.ac.jp/copris/][Copris]]
   - [[http://bach.istc.kobe-u.ac.jp/sugar/][Sugar]]
   - [[https://tsoh.org/scarab/][Scarab]]
 
